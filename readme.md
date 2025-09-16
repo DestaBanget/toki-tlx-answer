@@ -1,17 +1,19 @@
 # TLX Competitive Programming Solutions (C++)
 
-Dokumentasi pengerjaan pribadi dalam menyelesaikan soal-soal TLX - Competitive Programming Training Gate.
+Dokumentasi pengerjaan pribadi dalam menyelesaikan soal-soal **TLX - Competitive Programming Training Gate**.  
 Repo ini dibuat untuk mencatat progres belajar, bukan merupakan kunci jawaban resmi.
+
+---
 
 ## Struktur dan Progress
 Pemrograman Kompetitif Dasar  
 Progress (10/86)  
 ├── 01_Perkenalan_Pemrograman_Kompetitif (5/5)  
-│   ├── A. Perkenalan Soal Implementasi✅
-│   ├── P1. Operasi Matriks✅
-│   ├── P2. Runtuh✅
-│   ├── P3. Menyelidiki Pesan✅
-│   └── P4. Pola String✅
+│   ├── A. Perkenalan Soal Implementasi✅  
+│   ├── P1. Operasi Matriks✅  
+│   ├── P2. Runtuh✅  
+│   ├── P3. Menyelidiki Pesan✅  
+│   └── P4. Pola String✅  
 ├── 02_Matematika_Diskret_Dasar (0/10)  
 │   ├── A. Bilangan Agak Prima  
 │   ├── B. Faktorisasi Prima  
@@ -67,11 +69,11 @@ Progress (10/86)
 │   ├── P3. Waterfall  
 │   └── P4. Memasang Lantai  
 ├── 08_Struktur_Data_Dasar (5/5)  
-│   ├── A. Simulasi Larik Dinamis✅
-│   ├── B. Simulasi Antrean✅
-│   ├── C. Simulasi Tumpukan✅ 
-│   ├── D. Perkenalan Tumpukan Monoton✅ 
-│   └── E. Perkenalan Map✅
+│   ├── A. Simulasi Larik Dinamis✅  
+│   ├── B. Simulasi Antrean✅  
+│   ├── C. Simulasi Tumpukan✅  
+│   ├── D. Perkenalan Tumpukan Monoton✅  
+│   └── E. Perkenalan Map✅  
 ├── 09_Perkenalan_Graph (0/7)  
 │   ├── A. Perkenalan Penjelajahan Graf  
 │   ├── B. Perkenalan Flood Fill  
@@ -104,4 +106,11 @@ Progress (10/86)
     ├── P3. Karantina Bebek  
     ├── P4. Faktorial  
     ├── P5. Menghitung Ruang Tertutup  
-    └── P6. Kalkulator Pengubah Basis 
+    └── P6. Kalkulator Pengubah Basis  
+
+---
+
+## ⚡ Catatan
+- Semua solusi ditulis dalam **C++ (g++)** dengan gaya kompetitif (`using namespace std;`).  
+- Repo ini fokus sebagai dokumentasi progres, bukan referensi resmi jawaban.  
+- Progress akan diupdate secara bertahap.  
