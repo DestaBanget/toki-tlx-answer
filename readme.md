@@ -109,8 +109,3 @@ Progress (10/86)
     └── P6. Kalkulator Pengubah Basis  
 
 ---
-
-## ⚡ Catatan
-- Semua solusi ditulis dalam **C++ (g++)** dengan gaya kompetitif (`using namespace std;`).  
-- Repo ini fokus sebagai dokumentasi progres, bukan referensi resmi jawaban.  
-- Progress akan diupdate secara bertahap.  
