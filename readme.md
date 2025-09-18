@@ -7,7 +7,7 @@ Repo ini dibuat untuk mencatat progres belajar, bukan merupakan kunci jawaban re
 
 ## Struktur dan Progress
 Pemrograman Kompetitif Dasar  
-Progress (15/86)  
+Progress (17/86)  
 ├── 01_Perkenalan_Pemrograman_Kompetitif (5/5)  
 │   ├── A. Perkenalan Soal Implementasi✅  
 │   ├── P1. Operasi Matriks✅  
@@ -25,14 +25,14 @@ Progress (15/86)
 │   ├── P3. Pemberat  
 │   ├── P4. Angka 3  
 │   └── P5. Berbagi Banyak Candil  
-├── 03_Pencarian_dan_Pengurutan (5/7)  
+├── 03_Pencarian_dan_Pengurutan (7/7)  
 │   ├── A. Perkenalan Pencarian Linear✅  
 │   ├── B. Perkenalan Pengurutan✅  
 │   ├── C. Perkenalan Pengurutan II✅  
 │   ├── D. Perkenalan Pengurutan Gelembung✅  
 │   ├── E. Perkenalan Pencarian Biner✅  
-│   ├── F. Perkenalan Pencarian Biner II  
-│   └── P1. Lari Jauh  
+│   ├── F. Perkenalan Pencarian Biner II✅  
+│   └── P1. Lari Jauh✅  
 ├── 04_Brute_Force (0/9)  
 │   ├── A. Perkenalan Brute Force  
 │   ├── B. Perkenalan Brute Force Rekursif  
