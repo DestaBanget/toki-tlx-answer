@@ -47,30 +47,23 @@ signed main() {
     //freopen("x.in", "r", stdin);
     //freopen("x.out", "w", stdout);
 
-    int n;
-    ci n;
+    int n, b;
+    ci n >> b;
 
-    vi vec(n, 0);
+    vi vec(n, 0); InputVec0(vec, n);
 
+    RSort(vec);
+
+    int sum = 0;
+    int ans = 0;
     FOR(i, 0, n){
-        int a; ci a;
-        if(i==0){
-            vec[0] = a;
-        } else {
-            vec[i] = vec[i-1] + a;
+        sum+=vec[i];
+        ans++;
+        if(sum>=b){
+            break;
         }
     }
-
-    int q;
-    ci q;
-
-    while(q--){
-        int x; ci x;
-
-        int ans = lower_bound(vec.begin(), vec.end(), x) - vec.begin();
-        ans++;
-        ct ans en;
-    }
+    ct ans en;
 
     return 0;
 }
