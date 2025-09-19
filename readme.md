@@ -7,7 +7,7 @@ Repo ini dibuat untuk mencatat progres belajar, bukan merupakan kunci jawaban re
 
 ## Struktur dan Progress
 Pemrograman Kompetitif Dasar  
-Progress (17/86)  
+Progress (24/86)  
 ├── 01_Perkenalan_Pemrograman_Kompetitif (5/5)  
 │   ├── A. Perkenalan Soal Implementasi✅  
 │   ├── P1. Operasi Matriks✅  
@@ -47,14 +47,14 @@ Progress (17/86)
 │   ├── A. Perkenalan Exponentiation by Squaring  
 │   ├── B. Penjumlahan Faktor Ganjil Terbesar  
 │   └── P1. Koin Palsu  
-├── 06_Greedy (0/9)  
-│   ├── A. Perkenalan Greedy dengan Pengurutan  
-│   ├── B. Perkenalan Greedy dengan Pengurutan II  
-│   ├── C. Perkenalan Greedy dengan Pengurutan III  
-│   ├── D. Perkenalan Fractional Knapsack  
-│   ├── E. Perkenalan Activity Selection  
-│   ├── P1. Sepatu  
-│   ├── P2. Hiasan Kelereng  
+├── 06_Greedy (7/9)  
+│   ├── A. Perkenalan Greedy dengan Pengurutan✅  
+│   ├── B. Perkenalan Greedy dengan Pengurutan II✅  
+│   ├── C. Perkenalan Greedy dengan Pengurutan III✅  
+│   ├── D. Perkenalan Fractional Knapsack✅  
+│   ├── E. Perkenalan Activity Selection✅  
+│   ├── P1. Sepatu✅  
+│   ├── P2. Hiasan Kelereng✅  
 │   ├── P3. Gunting-Kertas-Batu  
 │   └── P4. Mengangkut Bebek  
 ├── 07_Dynamic_Programming (0/10)  
