@@ -7,7 +7,7 @@ Repo ini dibuat untuk mencatat progres belajar, bukan merupakan kunci jawaban re
 
 ## Struktur dan Progress
 Pemrograman Kompetitif Dasar  
-Progress (28/86)  
+Progress (35/86)  
 ├── 01_Perkenalan_Pemrograman_Kompetitif (5/5)  
 │   ├── A. Perkenalan Soal Implementasi✅  
 │   ├── P1. Operasi Matriks✅  
@@ -33,16 +33,16 @@ Progress (28/86)
 │   ├── E. Perkenalan Pencarian Biner✅  
 │   ├── F. Perkenalan Pencarian Biner II✅  
 │   └── P1. Lari Jauh✅  
-├── 04_Brute_Force (2/9)  
+├── 04_Brute_Force (9/9)  
 │   ├── A. Perkenalan Brute Force✅  
 │   ├── B. Perkenalan Brute Force Rekursif✅  
-│   ├── C. Permutasi Zig-Zag  
-│   ├── D. Jawbreaker I: Klik!  
-│   ├── E. Jawbreaker II: Cari Terbesar  
-│   ├── F. Jawbreaker III: Cari Terbesar dan Runtuhkan  
-│   ├── G. Jawbreaker IV: Cari Terbesar 2 Langkah  
-│   ├── P1. Permutasi Ekspresi  
-│   └── P2. Paduan Suara  
+│   ├── C. Permutasi Zig-Zag✅  
+│   ├── D. Jawbreaker I: Klik!✅  
+│   ├── E. Jawbreaker II: Cari Terbesar✅  
+│   ├── F. Jawbreaker III: Cari Terbesar dan Runtuhkan✅  
+│   ├── G. Jawbreaker IV: Cari Terbesar 2 Langkah✅  
+│   ├── P1. Permutasi Ekspresi✅  
+│   └── P2. Paduan Suara✅  
 ├── 05_Divide_and_Conquer (0/3)  
 │   ├── A. Perkenalan Exponentiation by Squaring  
 │   ├── B. Penjumlahan Faktor Ganjil Terbesar  
