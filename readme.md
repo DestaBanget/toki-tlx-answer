@@ -7,7 +7,7 @@ Repo ini dibuat untuk mencatat progres belajar, bukan merupakan kunci jawaban re
 
 ## Struktur dan Progress
 Pemrograman Kompetitif Dasar  
-Progress (37/86)  
+Progress (42/86)  
 ├── 01_Perkenalan_Pemrograman_Kompetitif (5/5)  
 │   ├── A. Perkenalan Soal Implementasi✅  
 │   ├── P1. Operasi Matriks✅  
@@ -57,14 +57,14 @@ Progress (37/86)
 │   ├── P2. Hiasan Kelereng✅  
 │   ├── P3. Gunting-Kertas-Batu✅  
 │   └── P4. Mengangkut Bebek✅  
-├── 07_Dynamic_Programming (2/10)  
+├── 07_Dynamic_Programming (7/10)  
 │   ├── A. Perkenalan Coin Change✅  
 │   ├── B. Perkenalan Knapsack✅  
-│   ├── C. Perkenalan Matrix Chain Multiplication  
-│   ├── D. Perkenalan Longest Common Subsequence  
-│   ├── E. Palindrom  
-│   ├── F. Jabat Tangan  
-│   ├── P1. Penukaran Emas  
+│   ├── C. Perkenalan Matrix Chain Multiplication✅  
+│   ├── D. Perkenalan Longest Common Subsequence✅  
+│   ├── E. Palindrom✅  
+│   ├── F. Jabat Tangan✅  
+│   ├── P1. Penukaran Emas✅  
 │   ├── P2. Vitamin  
 │   ├── P3. Waterfall  
 │   └── P4. Memasang Lantai  
